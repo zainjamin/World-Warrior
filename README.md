@@ -35,15 +35,27 @@ World Warrior has a plethora of options to expand its narrative as well as its g
 Developed by Zain Salman, Ethan Yen, and Josh Magder in 36 hours during Hack the North 2021 (September 17-19 2021). 
 
 A very very very rough list of sources for images:
+
 Person - https://giphy.com/stickers/inerciatic-chulengogames-envola-Vbzh0B4nYA8CzNDAhg 
+
 https://opengameart.org/content/roguelike-modern-city-pack - background
+
 https://hdqwalls.com/8-bit-pixel-art-city-wallpaper - background for intro
+
 https://cryptogarbage.com/ - trashcan
+
 https://toppng.com/show_download/187827/text-box-pixel-art-cupcake/large - textbox
+
 http://pixelartmaker.com/art/b279180e2f6da21 - garbage bag
+
 https://www.istockphoto.com/vector/vector-pixel-art-isolated-junk-garbage-gm1249788788-364321340 - assorted garbage
+
 https://www.dreamstime.com/illustration/pixel-trash-can.html - cans/juicebox
+
 https://www.dreamstime.com/vector-pixel-art-banana-peel-isolated-cartoon-image126398488 - banana
+
 http://pixelartmaker.com/art/1ae4a8cfe9d503c - water bottle
+
 https://www.youtube.com/watch?v=QNbqgHDObbI - pizza box
+
 https://twitter.com/galooneytoons - bus
